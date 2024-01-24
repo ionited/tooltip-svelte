@@ -1,6 +1,6 @@
 {
   "name": "@ionited/tooltip-svelte",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A simple and lightweight tooltip library for Svelte",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ionited/tooltip-svelte#readme",
   "dependencies": {
-    "@ionited/tooltip": "^0.1.5"
+    "@ionited/tooltip": "^0.1.6"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.3.0",
